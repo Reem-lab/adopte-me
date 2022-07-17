@@ -33,7 +33,7 @@ The page will reload when you make changes.\
 
  ## Live Demo
 
-[![Netlify Status](https://adoptmereactapp.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dfe0b022-ab52-4e53-b910-9832263478b1/deploy-status)](https://app.netlify.com/sites/adoptmereactapp/deploys)
 
 
 ## Authors
