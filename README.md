@@ -31,10 +31,9 @@ The page will reload when you make changes.\
  - Google fonts
  - Webpack 
 
-<!-- 
  ## Live Demo
 
-[See My project Live here]()  -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dfe0b022-ab52-4e53-b910-9832263478b1/deploy-status)](https://app.netlify.com/sites/adoptmereactapp/deploys)
 
 
 ## Authors
